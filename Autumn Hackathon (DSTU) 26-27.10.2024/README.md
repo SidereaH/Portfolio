@@ -2,5 +2,6 @@
 - https://t.me/ithub_rostov/307
 
 Роль - Teamlead
+
 Решение:
 https://github.com/SidereaH/WebPA-Back
