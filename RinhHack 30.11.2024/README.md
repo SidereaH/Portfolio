@@ -1,4 +1,4 @@
-https://t.me/ithub_rostov/363
+[1 место](https://t.me/ithubrostov/363)
 
 Роль - тимлид
 
