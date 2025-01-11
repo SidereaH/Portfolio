@@ -1,6 +1,6 @@
 [1 место](https://t.me/ithubrostov/363)
 
-Роль - тимлид
+Роль - Techlead, ведущий разработчик.
 
 Решение кейса :
 - backend https://github.com/flounder11/Wrapper-quick-reports
