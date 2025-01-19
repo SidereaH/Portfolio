@@ -4,6 +4,5 @@
 
 Роль - Techlead, ведущий разработчик.
 
-Решение:
- - кейс: https://vk.com/doc102343170_677174031?hash=h7fZiTcu6SMHeeiXZUc4eXff3jzIChjizbxBRGINRu4&dl=3acPoRjKZkcCsUYdHrAGSKOcWAGCkX8OqThEz4QXGdo
- - https://github.com/SidereaH/WebPA-Back
+ - Кейс: https://vk.com/doc102343170_677174031?hash=h7fZiTcu6SMHeeiXZUc4eXff3jzIChjizbxBRGINRu4&dl=3acPoRjKZkcCsUYdHrAGSKOcWAGCkX8OqThEz4QXGdo
+ - Решение: https://github.com/SidereaH/WebPA-Back
