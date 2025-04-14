@@ -1,5 +1,5 @@
 Роль - Techlead, ведущий разработчик.
 
-Решение: 
+Решение: https://gitverse.ru/IAmOkey/WebAntTest
 
 
