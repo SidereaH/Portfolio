@@ -1,6 +1,6 @@
 Новости:
 - https://vk.com/wall436181307_229
-- https://t.me/ithub_rostov/307
+- https://t.me/ithubrostov/307
 
 Роль - Techlead, ведущий разработчик.
 
